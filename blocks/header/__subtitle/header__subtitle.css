@@ -7,4 +7,5 @@
   width: 388px;
   left: 64px;
   bottom: 30px;
+  z-index: 3;
 }
